@@ -1,0 +1,8 @@
+ManifestFileVersion: 1
+CompatibilityAssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lighting_0
+      Hash: 3df0dff43ae5a3105a5e69b6487695af
+      CRC: 1000306648
+      Dependencies: {}
